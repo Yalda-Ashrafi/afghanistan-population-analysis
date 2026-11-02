@@ -1,0 +1,235 @@
+country,region,population
+Afghanistan,Asia,41128771
+Albania,Europe,2842321
+Algeria,Africa,44903225
+American Samoa,Oceania,44273
+Andorra,Europe,79824
+Angola,Africa,35588987
+Anguilla,North America,15857
+Antigua and Barbuda,North America,93763
+Argentina,South America,45510318
+Armenia,Asia,2780469
+Aruba,North America,106445
+Australia,Oceania,26177413
+Austria,Europe,8939617
+Azerbaijan,Asia,10358074
+Bahamas,North America,409984
+Bahrain,Asia,1472233
+Bangladesh,Asia,171186372
+Barbados,North America,281635
+Belarus,Europe,9534954
+Belgium,Europe,11655930
+Belize,North America,405272
+Benin,Africa,13352864
+Bermuda,North America,64184
+Bhutan,Asia,782455
+Bolivia,South America,12224110
+Bosnia and Herzegovina,Europe,3233526
+Botswana,Africa,2630296
+Brazil,South America,215313498
+British Virgin Islands,North America,31305
+Brunei,Asia,449002
+Bulgaria,Europe,6781953
+Burkina Faso,Africa,22673762
+Burundi,Africa,12889576
+Cambodia,Asia,16767842
+Cameroon,Africa,27914536
+Canada,North America,38454327
+Cape Verde,Africa,593149
+Cayman Islands,North America,68706
+Central African Republic,Africa,5579144
+Chad,Africa,17723315
+Chile,South America,19603733
+China,Asia,1425887337
+Colombia,South America,51874024
+Comoros,Africa,836774
+Cook Islands,Oceania,17011
+Costa Rica,North America,5180829
+Croatia,Europe,4030358
+Cuba,North America,11212191
+Curacao,North America,191163
+Cyprus,Europe,1251488
+Czech Republic,Europe,10493986
+Denmark,Europe,5882261
+Djibouti,Africa,1120849
+Dominica,North America,72737
+Dominican Republic,North America,11228821
+DR Congo,Africa,99010212
+Ecuador,South America,18001000
+Egypt,Africa,110990103
+El Salvador,North America,6336392
+Equatorial Guinea,Africa,1674908
+Eritrea,Africa,3684032
+Estonia,Europe,1326062
+Eswatini,Africa,1201670
+Ethiopia,Africa,123379924
+Falkland Islands,South America,3780
+Faroe Islands,Europe,53090
+Fiji,Oceania,929766
+Finland,Europe,5540745
+France,Europe,64626628
+French Guiana,South America,304557
+French Polynesia,Oceania,306279
+Gabon,Africa,2388992
+Gambia,Africa,2705992
+Georgia,Asia,3744385
+Germany,Europe,83369843
+Ghana,Africa,33475870
+Gibraltar,Europe,32649
+Greece,Europe,10384971
+Greenland,North America,56466
+Grenada,North America,125438
+Guadeloupe,North America,395752
+Guam,Oceania,171774
+Guatemala,North America,17843908
+Guernsey,Europe,63301
+Guinea,Africa,13859341
+Guinea-Bissau,Africa,2105566
+Guyana,South America,808726
+Haiti,North America,11584996
+Honduras,North America,10432860
+Hong Kong,Asia,7488865
+Hungary,Europe,9967308
+Iceland,Europe,372899
+India,Asia,1417173173
+Indonesia,Asia,275501339
+Iran,Asia,88550570
+Iraq,Asia,44496122
+Ireland,Europe,5023109
+Isle of Man,Europe,84519
+Israel,Asia,9038309
+Italy,Europe,59037474
+Ivory Coast,Africa,28160542
+Jamaica,North America,2827377
+Japan,Asia,123951692
+Jersey,Europe,110778
+Jordan,Asia,11285869
+Kazakhstan,Asia,19397998
+Kenya,Africa,54027487
+Kiribati,Oceania,131232
+Kuwait,Asia,4268873
+Kyrgyzstan,Asia,6630623
+Laos,Asia,7529475
+Latvia,Europe,1850651
+Lebanon,Asia,5489739
+Lesotho,Africa,2305825
+Liberia,Africa,5302681
+Libya,Africa,6812341
+Liechtenstein,Europe,39327
+Lithuania,Europe,2750055
+Luxembourg,Europe,647599
+Macau,Asia,695168
+Madagascar,Africa,29611714
+Malawi,Africa,20405317
+Malaysia,Asia,33938221
+Maldives,Asia,523787
+Mali,Africa,22593590
+Malta,Europe,533286
+Marshall Islands,Oceania,41569
+Martinique,North America,367507
+Mauritania,Africa,4736139
+Mauritius,Africa,1299469
+Mayotte,Africa,326101
+Mexico,North America,127504125
+Micronesia,Oceania,114164
+Moldova,Europe,3272996
+Monaco,Europe,36469
+Mongolia,Asia,3398366
+Montenegro,Europe,627082
+Montserrat,North America,4390
+Morocco,Africa,37457971
+Mozambique,Africa,32969517
+Myanmar,Asia,54179306
+Namibia,Africa,2567012
+Nauru,Oceania,12668
+Nepal,Asia,30547580
+Netherlands,Europe,17564014
+New Caledonia,Oceania,289950
+New Zealand,Oceania,5185288
+Nicaragua,North America,6948392
+Niger,Africa,26207977
+Nigeria,Africa,218541212
+Niue,Oceania,1934
+North Korea,Asia,26069416
+North Macedonia,Europe,2093599
+Northern Mariana Islands,Oceania,49551
+Norway,Europe,5434319
+Oman,Asia,4576298
+Pakistan,Asia,235824862
+Palau,Oceania,18055
+Palestine,Asia,5250072
+Panama,North America,4408581
+Papua New Guinea,Oceania,10142619
+Paraguay,South America,6780744
+Peru,South America,34049588
+Philippines,Asia,115559009
+Poland,Europe,39857145
+Portugal,Europe,10270865
+Puerto Rico,North America,3252407
+Qatar,Asia,2695122
+Republic of the Congo,Africa,5970424
+Reunion,Africa,974052
+Romania,Europe,19659267
+Russia,Europe,144713314
+Rwanda,Africa,13776698
+Saint Barthelemy,North America,10967
+Saint Kitts and Nevis,North America,47657
+Saint Lucia,North America,179857
+Saint Martin,North America,31791
+Saint Pierre and Miquelon,North America,5862
+Saint Vincent and the Grenadines,North America,103948
+Samoa,Oceania,222382
+San Marino,Europe,33660
+Sao Tome and Principe,Africa,227380
+Saudi Arabia,Asia,36408820
+Senegal,Africa,17316449
+Serbia,Europe,7221365
+Seychelles,Africa,107118
+Sierra Leone,Africa,8605718
+Singapore,Asia,5975689
+Sint Maarten,North America,44175
+Slovakia,Europe,5643453
+Slovenia,Europe,2119844
+Solomon Islands,Oceania,724273
+Somalia,Africa,17597511
+South Africa,Africa,59893885
+South Korea,Asia,51815810
+South Sudan,Africa,10913164
+Spain,Europe,47558630
+Sri Lanka,Asia,21832143
+Sudan,Africa,46874204
+Suriname,South America,618040
+Sweden,Europe,10549347
+Switzerland,Europe,8740472
+Syria,Asia,22125249
+Taiwan,Asia,23893394
+Tajikistan,Asia,9952787
+Tanzania,Africa,65497748
+Thailand,Asia,71697030
+Timor-Leste,Asia,1341296
+Togo,Africa,8848699
+Tokelau,Oceania,1871
+Tonga,Oceania,106858
+Trinidad and Tobago,North America,1531044
+Tunisia,Africa,12356117
+Turkey,Asia,85341241
+Turkmenistan,Asia,6430770
+Turks and Caicos Islands,North America,45703
+Tuvalu,Oceania,11312
+Uganda,Africa,47249585
+Ukraine,Europe,39701739
+United Arab Emirates,Asia,9441129
+United Kingdom,Europe,67508936
+United States,North America,338289857
+United States Virgin Islands,North America,99465
+Uruguay,South America,3422794
+Uzbekistan,Asia,34627652
+Vanuatu,Oceania,326740
+Vatican City,Europe,510
+Venezuela,South America,28301696
+Vietnam,Asia,98186856
+Wallis and Futuna,Oceania,11572
+Western Sahara,Africa,575986
+Yemen,Asia,33696614
+Zambia,Africa,20017675
+Zimbabwe,Africa,16320537
