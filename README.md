@@ -1,7 +1,7 @@
 # Afghanistan Population Analysis
 
 This project uses Python and pandas to compare Afghanistan's population with regional totals. It combines population and area datasets, calculates population density, and saves the analysis to an Excel workbook.
-![Image Description](https://your-image-link.png)
+![Image Description](https://github.com/Yalda-Ashrafi/afghanistan-population-analysis/blob/19301e81a6cafd9dddf7271dedb76b03b669ec7b/result.png)
 ## What the script does
 
 Run `assignment.py` to perform the assignment steps:
