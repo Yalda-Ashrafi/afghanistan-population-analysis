@@ -19,6 +19,10 @@ Run `assignment.py` to perform the assignment steps:
 
 In the supplied data, Afghanistan is classified under **Asia**, and its population is **0.87% of Asia's total population**. The datasets do not provide a **Central Asia** region or subregion classification, so a Central Asia-specific population share cannot be calculated from these files alone.
 
+## Data source
+
+The original world population dataset is available on Kaggle: [World Population Analysis — input dataset](https://www.kaggle.com/code/hasibalmuzdadid/world-population-analysis/input).
+
 ## Project files
 
 - `world_population.csv` — source population dataset.
